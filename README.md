@@ -4,4 +4,4 @@
 
 Simply download and unzip the folder. Open the love.html file with Firefox. Scroll through the column on the left to see how it turned out!
 
-A working demo can be viewed in the projects section at http://samkguerrero.com/
+A working demo can be viewed at https://samkguerrero.github.io/theworldoflovecraft/love.html
