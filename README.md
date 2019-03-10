@@ -1,4 +1,4 @@
-#theworldoflovecraft
+My First website
 
 This is my first website. I wanted to learn web mapping, and ended up learning how to build a simple website with JavaScript, CSS, and HTML. For my first attempt at programming, i'm impressed with how it turned out.
 
